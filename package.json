@@ -1,0 +1,23 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NurRozaqiUmam/CoffeeMachine.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NurRozaqiUmam/CoffeeMachine/issues"
+  },
+  "homepage": "https://github.com/NurRozaqiUmam/CoffeeMachine#readme"
+}
